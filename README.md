@@ -41,13 +41,13 @@
 
 🔗 **[https://karibu-ecommerce.vercel.app](https://karibu-ecommerce.vercel.app)**
 
-> Experience Karibu in action — browse products, search, manage your cart, explore the blog, and test the full admin dashboard.
+> Experience Karibu in action: browse products, search, manage your cart, explore the blog, and test the full admin dashboard.
 
 ---
 
 ## About the Project
 
-**Karibu** is a fully functional, modern e-commerce web application built entirely with frontend technologies. The name "Karibu" means "Welcome" in Swahili — and that's exactly what this platform offers: a warm, intuitive, and seamless shopping experience for everyone.
+**Karibu** is a fully functional, modern e-commerce web application built entirely with frontend technologies. The name "Karibu" means "Welcome" in Swahili, and that's exactly what this platform offers: a warm, intuitive, and seamless shopping experience for everyone.
 
 From product discovery and smart search to secure checkout, real-time order tracking, notifications, and a professional blog — Karibu is designed to feel like a complete online marketplace, all running in the browser with no backend required.
 
