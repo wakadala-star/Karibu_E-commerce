@@ -9,8 +9,9 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)](https://typescriptlang.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss)](https://tailwindcss.com)
 [![Zustand](https://img.shields.io/badge/Zustand-5-443E38)](https://zustand-demo.pmnd.rs)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Deployed-222222?logo=github)](https://wakadala-star.github.io/Karibu_E-commerce)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Karibu-00C853?style=for-the-badge)](https://karibu-ecommerce.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Karibu-00C853?style=for-the-badge)](https://wakadala-star.github.io/Karibu_E-commerce)
 [![View Portfolio](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/wakadala-star/Karibu_E-commerce)
 
 </div>
@@ -39,7 +40,7 @@
 
 ## Live Demo
 
-🔗 **[https://karibu-ecommerce.vercel.app](https://karibu-ecommerce.vercel.app)**
+🔗 **[https://wakadala-star.github.io/Karibu_E-commerce](https://wakadala-star.github.io/Karibu_E-commerce)**
 
 > Experience Karibu in action: browse products, search, manage your cart, explore the blog, and test the full admin dashboard.
 
@@ -88,6 +89,7 @@ Online shopping shouldn't be complicated. Karibu was built to address:
 | **State Management** | [Zustand](https://zustand-demo.pmnd.rs) | Lightweight state with localStorage persistence |
 | **Icons** | [Lucide React](https://lucide.dev) | Beautiful, consistent icon library |
 | **Build Tool** | [Turbopack](https://turbo.build) | Fast bundling for Next.js |
+| **Deployment** | [GitHub Pages](https://pages.github.com) | Static site hosting |
 
 ---
 
