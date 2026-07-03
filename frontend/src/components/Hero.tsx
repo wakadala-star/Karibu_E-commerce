@@ -21,7 +21,7 @@ const Hero = forwardRef<HTMLInputElement, HeroProps>(
       <section id="hero" className="relative w-full h-[320px] sm:h-[380px] lg:h-[420px] overflow-hidden bg-gray-200">
         <div
           className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: "url('/images/hero-bg.jpg')" }}
+          style={{ backgroundImage: "url('/Karibu_E-commerce/images/hero-bg.jpg')" }}
         />
         <div className="absolute inset-0 bg-gradient-to-r from-gray-600/70 to-gray-400/50" />
 

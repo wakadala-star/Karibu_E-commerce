@@ -199,7 +199,7 @@ function ProductsTab({
       category,
       rating: parseFloat(rating),
       reviewCount,
-      image: imagePreview || "/images/speaker.jpg",
+      image: imagePreview || "/Karibu_E-commerce/images/speaker.jpg",
       badge,
       stockQuantity: parseInt(stockQuantity),
     });

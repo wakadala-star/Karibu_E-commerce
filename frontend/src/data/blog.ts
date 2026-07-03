@@ -57,7 +57,7 @@ export const blogPosts: BlogPost[] = [
     readTime: "5 min read",
     publishedAt: "2026-06-28",
     featured: true,
-    image: "/images/cctv.jpg",
+    image: "/Karibu_E-commerce/images/cctv.jpg",
   },
   {
     id: "2",
@@ -93,7 +93,7 @@ export const blogPosts: BlogPost[] = [
     authorRole: "Audio Editor",
     readTime: "4 min read",
     publishedAt: "2026-06-25",
-    image: "/images/tws-earbuds.jpg",
+    image: "/Karibu_E-commerce/images/tws-earbuds.jpg",
   },
   {
     id: "3",
@@ -124,7 +124,7 @@ export const blogPosts: BlogPost[] = [
     authorRole: "Tech Writer",
     readTime: "4 min read",
     publishedAt: "2026-06-20",
-    image: "/images/phone-holder.jpg",
+    image: "/Karibu_E-commerce/images/phone-holder.jpg",
   },
   {
     id: "4",
@@ -155,7 +155,7 @@ export const blogPosts: BlogPost[] = [
     authorRole: "Security Specialist",
     readTime: "5 min read",
     publishedAt: "2026-06-15",
-    image: "/images/speaker.jpg",
+    image: "/Karibu_E-commerce/images/speaker.jpg",
   },
   {
     id: "5",
@@ -184,7 +184,7 @@ export const blogPosts: BlogPost[] = [
     authorRole: "Audio Editor",
     readTime: "4 min read",
     publishedAt: "2026-06-10",
-    image: "/images/headphones.jpg",
+    image: "/Karibu_E-commerce/images/headphones.jpg",
   },
   {
     id: "6",
@@ -218,6 +218,6 @@ export const blogPosts: BlogPost[] = [
     authorRole: "Tech Writer",
     readTime: "3 min read",
     publishedAt: "2026-06-05",
-    image: "/images/earbuds-case.jpg",
+    image: "/Karibu_E-commerce/images/earbuds-case.jpg",
   },
 ];
