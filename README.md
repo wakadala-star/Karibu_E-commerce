@@ -206,30 +206,32 @@ Visit [http://localhost:3000](http://localhost:3000)
 
 ```
 Karibu_E-commerce/
-├── docs/                          # Project documentation
-│   ├── app-flow.md
-│   ├── business-logic.md
-│   ├── product-requirements.md
-│   └── technical-requirements.md
-├── images/
-│   └── UI_design/
-│       └── e-commerce.jpeg        # UI design reference
-└── frontend/                      # Next.js application
+├── .github/
+│   └── workflows/
+│       └── deploy.yml               # GitHub Actions CI/CD
+├── .gitignore
+├── README.md
+└── frontend/                        # Next.js application
     ├── src/
-    │   ├── app/                   # Pages (App Router)
-    │   │   ├── page.tsx           # Home page
-    │   │   ├── auth/page.tsx      # Login / Register
-    │   │   ├── account/page.tsx   # User profile & settings
-    │   │   ├── cart/page.tsx      # Shopping cart & checkout
-    │   │   ├── blog/page.tsx      # Blog articles
+    │   ├── app/                     # Pages (App Router)
+    │   │   ├── page.tsx             # Home page
+    │   │   ├── layout.tsx           # Root layout
+    │   │   ├── globals.css          # Global styles & Tailwind
+    │   │   ├── auth/page.tsx        # Login / Register
+    │   │   ├── account/page.tsx     # User profile & settings
+    │   │   ├── cart/page.tsx        # Shopping cart & checkout
+    │   │   ├── blog/page.tsx        # Blog articles
     │   │   └── admin/
-    │   │       ├── page.tsx       # Admin login
-    │   │       └── dashboard/     # Admin dashboard
-    │   ├── components/            # Reusable UI components
-    │   ├── data/                  # Static data (products, blog)
-    │   ├── store/                 # Zustand state management
-    │   └── types/                 # TypeScript interfaces
-    ├── public/images/             # Product & hero images
+    │   │       ├── page.tsx         # Admin login
+    │   │       └── dashboard/       # Admin dashboard
+    │   ├── components/              # Reusable UI components
+    │   ├── data/                    # Static data (products, blog)
+    │   ├── store/                   # Zustand state management
+    │   └── types/                   # TypeScript interfaces
+    ├── public/
+    │   └── images/                  # Product & hero images
+    ├── next.config.ts               # Next.js config (basePath, export)
+    ├── postcss.config.mjs           # PostCSS & Tailwind config
     ├── package.json
     └── tsconfig.json
 ```
