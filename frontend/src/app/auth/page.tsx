@@ -69,7 +69,7 @@ export default function AuthPage() {
           <div className="text-center mb-8">
             <Link href="/" className="inline-flex items-center gap-2 mb-6">
               <div className="w-10 h-10 bg-black rounded-xl flex items-center justify-center">
-                <span className="text-white font-bold">S</span>
+                <span className="text-white font-bold">K</span>
               </div>
               <span className="text-2xl font-bold text-black">Karibu</span>
             </Link>
